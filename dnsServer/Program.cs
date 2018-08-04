@@ -244,6 +244,7 @@ namespace dnsServer
                     Console.WriteLine("Configuration Loaded!");
                 }
             }
+            else throw new FileNotFoundException("Failed to load test.xml configuration file.\nPlease place it in the same directory as the dnsServer.exe file");
         }
 
         public dnsRequest runXML()
@@ -362,7 +363,6 @@ namespace dnsServer
             Console.WriteLine("===============End of Rules===============");
         }
     }
-
 
     public class dnsRequest
     {

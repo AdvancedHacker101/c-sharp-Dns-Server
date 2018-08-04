@@ -1,13 +1,9 @@
 # Configuration Examples
 ## File Information
-### dnsServer.exe:
-Please only start this file with permission from the computer's owner.  
-The file is NOT a virus it will not harm your and/or other's computer.  
-It will open port udp/53 since every DNS server uses that.  
-If a firewall prompt come's up please accept it otherwise the program will not work.  
-
 ### test.xml:
 Here you can configure the MITM functions  
+After building the project you need to place this file under the bin/Debug folder  
+This way the dnsServer can read your configuration
 ## Configuration
 All of the example goes into the **test.xml** file  
 #### To work as a normal dns server use:

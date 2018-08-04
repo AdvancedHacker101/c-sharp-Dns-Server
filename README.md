@@ -10,7 +10,7 @@ So you have full control above the dns request sent and the response received.
 You can view the project licence [here](https://github.com/AdvancedHacker101/c-sharp-Dns-Server/blob/master/LICENSE)  
 You can read the code of conduct [here](https://github.com/AdvancedHacker101/c-sharp-Dns-Server/blob/master/CODE_OF_CONDUCT.md)  
 You can read how to contribute [here](https://github.com/AdvancedHacker101/c-sharp-Dns-Server/blob/master/CONTRIBUTING.md)  
-You can view config examples [here](https://github.com/AdvancedHacker101/c-sharp-Dns-Server/blob/master/dnsServer/bin/debug/readme.md)  
+You can view config examples [here](https://github.com/AdvancedHacker101/c-sharp-Dns-Server/blob/master/config_readme.md)  
 
 *Happy Coding*  
 **-Advanced Hacker 101**
